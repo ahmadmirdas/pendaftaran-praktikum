@@ -94,7 +94,7 @@
                                 <a href="?p=kalab">Data Ketua Lab</a>
                             </li>
                             <li>
-                                <a href="?p=aslab">Data Asisten Lab</a>
+                                <a href="?p=aslab">Data Aslab</a>
                             </li>
                             <li>
                                 <a href="?p=dosen">Data Dosen</a>
