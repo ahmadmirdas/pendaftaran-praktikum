@@ -99,6 +99,9 @@
                             <li>
                                 <a href="?p=dosen">Data Dosen</a>
                             </li>
+                            <li>
+                                <a >Data Dede</a>
+                            </li>
                         </ul>
                     </li>
                    
